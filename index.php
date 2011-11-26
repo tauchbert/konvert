@@ -103,7 +103,7 @@ a:focus { font-weight:bold; color:#00E000; text-decoration:underline }
     </script>
 </head>
 <body>
-<table width=99%><tr><td align="left"><a href="faq.php"><div id="links">FAQ</div></a></td><td><div id="title">KONVERT</div></td><td><a href="code"><div id="links">code</div></a></td></tr></table>
+<table width=99%><tr><td align="left"><a href="faq.php"><div id="links">FAQ</div></a></td><td><div id="title">KONVERT</div></td><td><a href="https://github.com/tauchbert/konvert"><div id="links">code</div></a></td></tr></table>
     <a href="./index.php"><div id="refreshbutton">refresh</div></a>
     <form id="form1">
     <div id="dropZone">

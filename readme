@@ -1,0 +1,3 @@
+To set up KONVERT properly make
+temp/ writeable for the server and
+last.filename writeable for the server.
