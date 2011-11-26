@@ -1,0 +1,108 @@
+body
+{
+    font: 12px Arial;
+}
+
+h1 
+{
+    font: 48px Arial;
+    font-weight: bold;
+}
+
+h2 
+{
+    font: 14px Arial;
+    color: #94D639;
+	margin-top:3em;
+}
+
+#links
+{
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    background-color: #61A306;
+    width: 150px;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 16px;
+    color: #dddddd;
+    margin: 20px auto;
+    position:relative;
+    right: 10px;
+}
+
+#title
+{
+    text-align: center;
+    font-size: 32px;
+    color: #94D639;
+    font-weight: bold;
+}
+
+#refreshbutton
+{
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    background-color: #94D639;
+    width: 150px;
+    padding: 50px 0;
+    text-align: center;
+    font-size: 32px;
+    color: #eeeeee;
+    margin: 50px auto;
+}
+
+ 
+#dropZone
+{
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    background-color: #94D639;
+    width: 850px;
+	height: 550px;
+    padding: 50px 0;
+    text-align: center;
+    font-size: 32px;
+    color: #eeeeee;
+    margin: 50px auto;
+}
+ 
+#dropZone.hover
+{
+    border-color: #aaa;
+    background-color: #639C18;
+}
+ 
+#dropZone.error
+{
+    border-color: #f00;
+    background-color: #faa;
+}
+
+#message
+{
+    border-radius: 5px;
+    border: 0px solid #ccc;
+    background-color: #eee;
+    width: 850px;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #555;
+    margin: 10px auto;
+}
+
+#downloadbutton
+{
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    background-color: #186321;
+    width: 650px;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 32px;
+    color: #fff;
+    margin: 10px auto;
+	
+	
+}

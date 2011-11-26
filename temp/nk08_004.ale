@@ -1,0 +1,61 @@
+Heading
+FIELD_DELIM	TABS
+VIDEO_FORMAT	1080
+AUDIO_FORMAT	48khz
+FPS	25
+
+Column
+Name	Tape	Start	End	Tracks	Comments	Note	Color
+
+Data
+njk08	bregenz_seebuehne_tosca_akt1_abgang_betende_priester_probe	04:11:43:07	04:11:52:04	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_agenten_abgang_abendrot_probe	04:12:00:04	04:12:16:00	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_agenten_bringen_gefangene_01_probe	04:09:33:12	04:09:39:15	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_agenten_bringen_gefangene_01_probe	04:09:47:20	04:09:58:08	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_agenten_erschiessen_gefangene_probe	04:11:14:16	04:11:22:17	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_agenten_filzen_priester_probe	04:03:31:23	04:03:40:20	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_agenten_ueberwaeltigen_priester_usw_probe	04:02:49:12	04:03:01:09	VA1A2A3A4		3	
+njk08	verschraenkten_haenden_auf_buehne_probe_bregenz_seebuehne_tosca_akt1_agent_mit	04:04:51:16	04:04:58:21	VA1A2A3A4			
+njk08	bregenz_seebuehne_tosca_akt1_bischoefe_in_auge_mit_Stoecken_probe	04:08:16:13	04:08:29:14	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_dirigent_auf_Leinwand_Zoom_02_probe	04:12:44:15	04:12:54:08	VA1A2A3A4		4	
+njk08	bregenz_seebuehne_tosca_akt1_dirigent_auf_leinwand_zoom_03_probe	04:13:23:03	04:13:50:07	VA1A2A3A4		4	
+njk08	bregenz_seebuehne_tosca_akt1_dirigent_auf_Leinwand_Zoom_probe	04:12:17:24	04:12:38:21	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_gefangene_kommen_in_kerker_probe	04:10:17:00	04:10:42:10	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt1_oberagent_filzt_weiter_probe	04:05:06:23	04:05:18:04	VA1A2A3A4		2	Yellow
+njk08	filzt_tisch_probebregenz_seebuehne_tosca_akt1_oberagent_gibt_anweisungen_fuer_agenten_und	04:03:43:21	04:03:58:06	VA1A2A3A4			
+njk08	bregenz_seebuehne_tosca_akt1_polizist_mit_kindern_probe	04:01:16:03	04:01:46:00	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt1_priester_beten_probe	04:08:42:24	04:08:50:07	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_priester_betreten_buehne_durch_tuer_probe	04:01:49:21	04:01:58:11	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt1_priester_und_bischoefe_totale_probe	04:09:14:00	04:09:20:15	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt1_scheinwerfer_fokus_defokus_probe	04:07:15:23	04:07:50:16	VA1A2A3A4		4	
+njk08	bregenz_seebuehne_tosca_akt2_agenten_fuehren_blutueberstroemten_mann_ab	04:20:01:05	04:20:07:21	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_mann_legt_schal_um_tosca	04:23:39:10	04:23:48:16	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt2_mann_mit_sessel_amerikanische	04:21:11:22	04:21:26:15	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt2_mann_setzt_sich_auf_sessel	04:24:51:03	04:25:04:01	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_mann_und_tosca_streitgespraech	04:24:19:14	04:24:46:08	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt2_mann_versucht_tosca_zu_noetigen_01	04:25:26:03	04:25:44:00	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt2_mann_versucht_tosca_zu_noetigen_02	04:25:50:01	04:26:04:19	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_tosca_amerikanische	04:20:50:08	04:21:06:09	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_tosca_und_blutueberstroemter_mann	04:19:41:09	04:19:54:09	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_tosca_und_mann_auf_buehne_enfternte_aufnahme	04:21:37:11	04:21:53:12	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_tosca_und_mann_mit_weinflasche_auf_buehne	04:22:07:08	04:22:56:19	VA1A2A3A4		3	
+njk08	bregenz_seebuehne_tosca_akt2_tosca_und_mann_von_hinten_arme_gespreizt	04:20:25:06	04:20:43:20	VA1A2A3A4		2	Yellow
+njk08	bregenz_seebuehne_tosca_akt2_tosca_verzweifelt_weint	04:20:12:07	04:20:23:18	VA1A2A3A4		2	Yellow
+njk08	bruecke_aut_ch_grenzuebergang_maeder_01	04:28:17:17	04:28:48:19	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_02	04:29:07:16	04:29:22:03	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_lensflare_01	04:32:18:17	04:32:43:05	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_lensflare_02	04:32:48:11	04:32:59:11	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_lensflare_03	04:33:03:13	04:33:19:05	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_lensflare_04	04:33:52:23	04:34:11:12	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_lensflare_05	04:34:16:13	04:34:31:15	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_zoom_lensflare_01	04:34:38:01	04:34:44:16	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_zoom_lensflare_02	04:36:19:07	04:36:26:17	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_zoom_lensflare_03	04:37:40:07	04:37:47:08	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_zoom_lensflare_04	04:38:04:05	04:38:13:02	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_zoom_lensflare_05	04:38:30:19	04:38:37:16	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_bursch_gaberlt_auf_bruecke_zoom_lensflare_06	04:38:50:14	04:38:55:06	VA1A2A3A4			
+njk08	bruecke_aut_ch_grenzuebergang_maeder_lensflare_auf_gelaender	04:30:40:11	04:31:02:16	VA1A2A3A4			
+njk08	bruecke_stahlgeruest_01	04:29:49:09	04:29:59:23	VA1A2A3A4			
+njk08	bruecke_stahlgeruest_02	04:30:03:02	04:30:15:10	VA1A2A3A4			
+njk08	schattenburg_feldkirch_aussen_burg_totale	04:26:55:06	04:27:00:16	VA1A2A3A4			
+njk08	schattenburg_feldkirch_aussen_schwenk_totale_01	04:27:13:08	04:27:32:21	VA1A2A3A4			
